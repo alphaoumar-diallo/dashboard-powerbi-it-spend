@@ -6,7 +6,7 @@
   </a>
 </p>
 
-FR — Présentation
+FR - Présentation
 Ce projet consiste en la création d'un dashboard Power BI pour l'analyse des dépenses IT, avec une modélisation en étoile, des mesures DAX personnalisées, et une restitution entièrement en français avec segments et visuels dynamiques.
 
 EN — Overview
