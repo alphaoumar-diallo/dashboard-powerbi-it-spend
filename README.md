@@ -9,7 +9,7 @@
 FR - Présentation
 Ce projet consiste en la création d'un dashboard Power BI pour l'analyse des dépenses IT, avec une modélisation en étoile, des mesures DAX personnalisées, et une restitution entièrement en français avec segments et visuels dynamiques.
 
-EN — Overview
+EN - Overview
 This project builds a Power BI dashboard for IT spend analysis, featuring star schema modeling, custom DAX measures, and a fully French-labeled reporting layer with slicers and dynamic visuals.
 
 
